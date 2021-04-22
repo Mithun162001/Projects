@@ -45,5 +45,5 @@ Machine learning is a method of data analysis that automates analytical model bu
 
 Hey dude! Follow me in twitter!!! if you find my projects intersting
 
-[![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/cricmithu16) 
+<a href="https://twitter.com/cricmithu16" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Mithu"  /></a>
 
