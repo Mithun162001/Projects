@@ -9,6 +9,8 @@ Traditional diagnosis of Parkinson’s Disease involves a clinician taking a neu
 <h2>Domain: Medicine</h2>
 
 <h2>Attribute Information:</h2>
+<img align="right" alt="GIF" height="300px" width="350px" src="https://media.giphy.com/media/RlTIZhHaRVu6gNdHis/giphy.gif" />
+
 <p>
 <ul>
 <li>name - ASCII subject name and recording number
