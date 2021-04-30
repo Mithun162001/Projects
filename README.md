@@ -26,6 +26,7 @@ Machine learning is a method of data analysis that automates analytical model bu
 - Iris data Classifier using KNN
 - Parkinson's Diseasse Classifier(EDA + data viz + Classification)
 - Solar Radiation predictor
+- Titanic data Classification
 
 *Planned Projects*
 - Cricket score predictor
