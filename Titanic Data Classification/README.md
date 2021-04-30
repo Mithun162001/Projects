@@ -1,6 +1,7 @@
 <h1>Titanic - Machine Learning from Disaster</h1>
 
 *Project from Kaggle Titanic Competition*
+<img align="right" alt="GIF" height="250px" width="400px" src="https://media.giphy.com/media/OJw4CDbtu0jde/giphy.gif" />
 
 <p>
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions. The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
