@@ -31,7 +31,7 @@ Machine learning is a method of data analysis that automates analytical model bu
 
 *Planned Projects*
 - Cricket score predictor
-- SVM based project (yet to decide the project 😅)
+- Natural Language Processing based project (yet to decide the project 😅)
 
 ## About the project.
 - This project has been entirely done my myself, no code has been duplicated from other coders.
