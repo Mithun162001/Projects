@@ -28,6 +28,7 @@ Machine learning is a method of data analysis that automates analytical model bu
 - Solar Radiation predictor
 - Titanic data Classification
 - University Clustering
+- Movie Recommendation System
 
 *Planned Projects*
 - Cricket score predictor
