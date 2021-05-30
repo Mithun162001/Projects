@@ -70,4 +70,5 @@ b. Techniques employed to squeeze that extra performance out of the model withou
 
 c. Model performance range at 95% confidence level (10 marks)
 
+<h2>Results/ Accuracy obtained in this project:</h2>
 ![Accuracy](https://user-images.githubusercontent.com/60751635/120110117-edd87b80-c189-11eb-9e18-ddec52a9f496.png)
