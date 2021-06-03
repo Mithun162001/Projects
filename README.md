@@ -29,6 +29,7 @@ Machine learning is a method of data analysis that automates analytical model bu
 - Titanic data Classification
 - University Clustering
 - Movie Recommendation System
+- Featurization and Model Tuning project
 
 *Planned Projects*
 - Cricket score predictor
