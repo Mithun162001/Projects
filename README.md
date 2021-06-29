@@ -14,7 +14,7 @@ Any contributors are welcomed to add any content on this ML based repository
 **Machine Learning Projects**
 
 <p align="center">
-<img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" width="80%"></p>
+<img src="https://media.giphy.com/media/26xBKuuVuNxp8seTS/source.gif" height="50%" width="80%"></p>
 
 Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
 
