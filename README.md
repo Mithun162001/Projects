@@ -6,8 +6,8 @@
 <p align="center">
   
 
-### [Contributions are Welcome](https://github.com/Mithun162001/Projects)
-Any contributors are welcomed to add any content on this ML based repository
+<h2>[Contributions are Welcome](https://github.com/Mithun162001/Projects)</h2>
+<h3>Any contributors are welcomed to add any content on this ML based repository <\h3>
 
 ## Description
 
