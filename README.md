@@ -30,6 +30,7 @@ Machine learning is a method of data analysis that automates analytical model bu
 - University Clustering
 - Movie Recommendation System
 - Featurization and Model Tuning project
+- EDA App using streamlit
 
 *Planned Projects*
 - Cricket score predictor
