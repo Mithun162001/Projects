@@ -20,8 +20,8 @@ Machine learning is a method of data analysis that automates analytical model bu
 <h2 align="center"><u> Contents </u></h2>
 
 <h3>Completed projects</h3>
-- Cancer patient Classifier <br>
-- Diabetes Classifier<br>
+- <a href='https://github.com/Mithun162001/Projects/tree/main/Cancer%20classification'>Cancer patient Classifier</a> <br>
+- <a href='https://github.com/Mithun162001/Projects/tree/main/Diabetes%20Classifiaction'>Diabetes Classifier</a><br>
 - Iris data Classifier using KNN<br>
 - Parkinson's Diseasse Classifier(EDA + data viz + Classification)<br>
 - Solar Radiation predictor<br>
