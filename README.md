@@ -8,7 +8,7 @@
 <a href='https://github.com/Mithun162001/Projects'>Contributions are welcome</a><br>
 Any contributors are welcomed to add any content on this ML based repository
 
-<h2>Description</h2>
+<h2><u>Description</u></h2>
 
 <h3>Machine Learning Projects</h3>
 
@@ -17,7 +17,7 @@ Any contributors are welcomed to add any content on this ML based repository
 
 Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
 
-<h2 align="center"> Contents </h2>
+<h2 align="center"><u> Contents </u></h2>
 
 <h3>Completed projects</h3>
 - Cancer patient Classifier <br>
