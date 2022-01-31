@@ -33,8 +33,8 @@ Machine learning is a method of data analysis that automates analytical model bu
 - EDA App using streamlit<br>
 
 <h3>Planned Projects</h3>
-- Cricket score predictor<br>
-- Natural Language Processing based project (yet to decide the project 😅)<br>
+- Music genre classification using deep learning<br>
+- Road Lane Line Detection using deep learning<br>
 
 <h2><u>About the projects</u></h2>
 - This project has been entirely done my myself, no code has been duplicated from other coders.<br>
