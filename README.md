@@ -36,16 +36,16 @@ Machine learning is a method of data analysis that automates analytical model bu
 - Cricket score predictor<br>
 - Natural Language Processing based project (yet to decide the project 😅)<br>
 
-<h2>About the project</h2>
+<h2><u>About the projects</u></h2>
 - This project has been entirely done my myself, no code has been duplicated from other coders.<br>
 - All the project mentioned in this repo have been done in Google Colab i.e., the Notebook format of Python.<br>
 - But, both the formats of .ipynb and .py have been uploaded in the respective folders.<br>
 - Can check the readme file of respective folders for each project info.<br>
 
-<h2>Future scope</h2>
+<h2><u>Future scope</u></h2>
 - To add projects on Deep Learning and unsupervised algorithm based projects<br>
 
-<h2>Support me on Twitter </h2>
+<h2><u>Support me on Twitter</u> </h2>
 
 Hey dude! Follow me in twitter!!! if you find my projects intersting
 
