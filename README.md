@@ -25,12 +25,11 @@ Machine learning is a method of data analysis that automates analytical model bu
 - <a href='https://github.com/Mithun162001/Projects/tree/main/Iris%20data%20Classifier'>Iris data Classifier using KNN</a><br>
 - <a href="https://github.com/Mithun162001/Projects/tree/main/Parkinson's%20disease%20Classifier">Parkinson's Disease Classifier(EDA + data viz + Classification)</a><br>
 - <a href="https://github.com/Mithun162001/Projects/tree/main/Solar%20Radiation%20Predictor">Solar Radiation predictor</a><br>
-- Solar Radiation predictor<br>
-- Titanic data Classification<br>
-- University Clustering<br>
-- Movie Recommendation System<br>
-- Featurization and Model Tuning project<br>
-- EDA App using streamlit<br>
+- <a href="https://github.com/Mithun162001/Projects/tree/main/Titanic%20Data%20Classification">Titanic data Classification</a><br>
+- <a href="https://github.com/Mithun162001/Projects/tree/main/University%20Clustering">University Clustering</a><br>
+- <a href="https://github.com/Mithun162001/Projects/tree/main/Movie%20Recommendation">Movie Recommendation System</a><br>
+- <a href="https://github.com/Mithun162001/Projects/tree/main/Featurization%20and%20Model%20Tuining">Featurization and Model Tuning project</a><br>
+- <a href="https://edaapp-mithun.herokuapp.com/">EDA App using streamlit</a><br>
 
 <h3>Planned Projects</h3>
 - Music genre classification using deep learning<br>
