@@ -1,4 +1,4 @@
-<h1 align="center">🎁Mithun's Projects🎁</h1>
+<h1 align="center">Mithun's Projects</h1>
 <h2 align="center">
 
 </h2>
